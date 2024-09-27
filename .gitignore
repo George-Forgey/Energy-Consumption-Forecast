@@ -154,6 +154,27 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Ignore virtual environment folders
+env/
+venv/
+.myenv/
+conda_env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore other temporary files
+*.log
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
