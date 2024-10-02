@@ -111,6 +111,18 @@ To set up the project locally, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
+5. Fix Library Dependency Issues:
+
+
+    Throughout Prophet, there is a single instance where the function `np.float_` is used. This function was removed in
+    the NumPy 2.0 release, but certain components of the sklearn.metrics library still depend on `np.float64`.
+    To resolve this compatibility issue with Prophet, we simply replace the usage of `np.float_` with `np.float64`.
+  
+        Navigate to `env\Lib\site-packages\prophet\forecaster.py`
+        
+        Use ctrl + F to locate the single occurrence of `np.float_`
+        
+        Replace it with `np.float64`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
