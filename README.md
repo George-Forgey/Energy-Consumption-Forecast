@@ -1,3 +1,6 @@
+<!-- Improved compatibility of back to top link -->
+<a id="readme-top"></a>
+
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -226,3 +229,5 @@ Project Link: [https://github.com/George-Forgey/Energy-Consumption-Forecast](htt
 [license-url]: https://github.com/George-Forgey/Energy-Consumption-Forecast/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/George-Forgey
+
+Adding the `#readme-top` anchor at the very beginning ensures that all the "back to top" links have a valid target and work as intended.
