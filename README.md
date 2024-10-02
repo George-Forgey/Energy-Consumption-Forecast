@@ -50,6 +50,7 @@
 
 This project aims to forecast hourly energy consumption using historical data from the PJM Interconnection region. The primary goal is to ensure **effective grid management**, **reduce costs**, and maintain **power stability**. We employ **Facebook's Prophet** library, which is a time series model designed to capture seasonality, holiday impacts, and long-term trends.
 
+## To see the code function check out the `model2.ipynb` file!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FEATURES -->
