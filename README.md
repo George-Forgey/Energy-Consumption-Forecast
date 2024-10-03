@@ -131,7 +131,7 @@ To set up the project locally, follow these steps:
 ## Usage
 
 1. **Prepare Your Data**: Ensure the input CSV file (`PJME_hourly.csv`) is present in the project directory.
-2. **Run the Notebook**: Open `energy_forecast.ipynb` using **Jupyter Notebook** or **VSCode** to execute the code.
+2. **Run the Notebook**: Open `model2.ipynb` using **Jupyter Notebook** or **VSCode** to execute the code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
