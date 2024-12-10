@@ -223,7 +223,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## Contact
 
 **Project Maintainer**: [George Forgey](https://github.com/George-Forgey)  
-**Email**: [gcforgey@gmail.com](mailto:gcforgey@gmail.com)
+**Email**: [forgey.g@northeastern.edu](mailto:forgey.g@northeastern.edu)  
+**LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/george-forgey)
 
 Project Link: [https://github.com/George-Forgey/Energy-Consumption-Forecast](https://github.com/George-Forgey/Energy-Consumption-Forecast)
 
